@@ -1,18 +1,16 @@
 {
-  "name": "TimeZone Conversion",
+  "name": "timezone-convert",
   "version": "1.0.0",
   "description": "",
-  "main": "convert.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/dmfilipenko/timezones.json.git"
+    "url": "git@github.com:firestar/tz-convert.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-  }
+  "author": "Nathaniel Davidson",
+  "license": "ISC"
 }
